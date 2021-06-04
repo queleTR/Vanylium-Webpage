@@ -8,6 +8,7 @@ a:active, a:hover {
 
 *, *:before, *:after {
   box-sizing: inherit;
+  bottom: 0;
 }
 
 a {
@@ -45,7 +46,7 @@ a {
 }
 
 .btn:focus, .btn-large:focus, .btn-floating:focus {
-  background-color: #ff0808;
+  background-color: #52d5ff;
 }
 
 .btn, .btn-large {
