@@ -45,7 +45,7 @@ a {
 }
 
 .btn:focus, .btn-large:focus, .btn-floating:focus {
-  background-color: #1d7d74;
+  background-color: #ff0808;
 }
 
 .btn, .btn-large {
@@ -59,7 +59,7 @@ a {
 }
 
 .btn:hover, .btn-large:hover {
-  background-color: #2bbbad;
+  background-color: #00e0ff;
 }
 
 .waves-effect {
